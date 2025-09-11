@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Xingjian Kang"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "PhD Candidate @ Julius-Maximilians-Universität(JMU) Würzburg | M.Sc. @ Friedrich-Alexander-Universität(FAU) Erlangen-Nürnberg" # A short 1-2 sentence bio about yourself.
+  bio              : "PhD Candidate@CAIDAS, JMU, Multimodal Machine Learning for Endometriosis" # A short 1-2 sentence bio about yourself.
   location         : "Erlangen, Germany"
-  employer         : "JMU Würzburg"
+  employer         : "Julius-Maximilians-Universität(JMU) Würzburg"
   uri              : # URL
   email            : "xingjian.kang@fau.de" 
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "TrevorKang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
