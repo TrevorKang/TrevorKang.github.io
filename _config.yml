@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xingjian Kang / M.Sc."
+title                    : "Xingjian Kang"
 title_separator          : "-"
 name                     : &name "Xingjian Kang"
 description              : &description "Personal Description"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,23 +24,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Xingjian Kang"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "PhD Candidate @ Julius-Maximilians-Universität(JMU) Würzburg | M.Sc. @ Friedrich-Alexander-Universität(FAU) Erlangen-Nürnberg" # A short 1-2 sentence bio about yourself.
+  location         : "Erlangen, Germany"
+  employer         : "JMU Würzburg"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xingjian.kang@fau.de" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-0590-1734"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
