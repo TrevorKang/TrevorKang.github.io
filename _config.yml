@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xingjian Kang"
+title                    : "🐱‍🏍Xingjian's Blog" # 
 title_separator          : "-"
 name                     : &name "Xingjian Kang"
 description              : &description "Personal Description"   # Update this with a general description of your site, this is the default if not overridden by a page
