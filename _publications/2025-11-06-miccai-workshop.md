@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-09-27-miccai-workshop
 excerpt: 'An LLM-based agents for supporting scan protocol management in CT imaging.'
-date: 2025-09-27
+date: 2025-11-06
 venue: 'Proceedings of the MICCAI 2025 Workshop on Agentic AI '
 paperurl: 'https://link.springer.com/book/9783032060044'
 citation: 'X. Kang et al. (2025). &quot;Scan-do Attitude: Towards Autonomous CT Protocol Management using a Large Language Model Agent &quot; <i>Proceedings of the MICCAI Workshop on Agentic AI 2025</i>. 1(3).'
