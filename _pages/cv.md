@@ -31,14 +31,22 @@ redirect_from:
   * Supervising student's programming assignments
 
   
-<!-- 🛠Skills
+🛠Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Medical image processing and data analysis
+* Deep Learning & GenAI
+* Coding:
+  * Python
+  * C/C++
+  * JAVA
+  * MATLAB
+
+
+🔈Languages
+======
+* Chinese (native)
+* German (C1)
+* English (C1)
 
 <!-- Publications
 ======
