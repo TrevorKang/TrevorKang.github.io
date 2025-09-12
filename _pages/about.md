@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: "Xingjian Kang"
+title: "Welcome😃"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-
-
 
 Since 2025, I am beginning my doctoral research under the supervision of [Prof. Dr.-Ing. Katharina Breininger](https://www.caidas.uni-wuerzburg.de/pr/team/katharina-breininger/) @[CAIDAS](https://www.caidas.uni-wuerzburg.de/), Uni Würzburg. Before that, I did my M.Sc. at [Friedrich-Alexander University Erlangen-Nürnberg (FAU)](https://www.fau.de/), with the major of [Medical Engineering](https://meinstudium.fau.de/studiengang/medizintechnik-msc/). 
 
