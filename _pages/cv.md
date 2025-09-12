@@ -11,28 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctoral Student in Multimodal Machine Learning for Endometriosis, Julius-Maximilians-Universität(JMU) Würzburg , 2025-
+* M.Sc. in Medical Engineering, Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, 2022-2025
+* B.Eng. in Mechanical Engineering, Ningbo University (宁波大学), China, 2017-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec 2024 - June 2025: Master Student
+  * CTC IA @ Siemens Healthineers AG
+  * Master's thesis: Leveraging Large Language Models for Scanner-Compatible CT Protocol Generation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2023 - Nov 2024: Working Student
+  * IT DA AL PPS @ Siemens AG
+  * LLM/RAG benchmarking & Industrial LLM application developement 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2023 - Aug 2023: Teaching Assistant
+  * Pattern Recognition Lab, FAU
+  * Course: Introduction to Machine Learning
+  * Supervising student's programming assignments
+
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
