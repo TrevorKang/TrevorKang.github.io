@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About Me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓Education
 ======
 * Doctoral Student in Multimodal Machine Learning for Endometriosis, Julius-Maximilians-Universität(JMU) Würzburg , 2025-
 * M.Sc. in Medical Engineering, Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, 2022-2025
 * B.Eng. in Mechanical Engineering, Ningbo University (宁波大学), China, 2017-2021
 
-Work experience
+👨‍💻Work experience
 ======
 * Dec 2024 - June 2025: Master Student
   * CTC IA @ Siemens Healthineers AG
@@ -31,16 +31,16 @@ Work experience
   * Supervising student's programming assignments
 
   
-<!-- Skills
+<!-- 🛠Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
