@@ -9,6 +9,6 @@ redirect_from:
 
 Since 2025, I am beginning my doctoral research under the supervision of [Prof. Dr.-Ing. Katharina Breininger](https://www.caidas.uni-wuerzburg.de/pr/team/katharina-breininger/) @[CAIDAS](https://www.caidas.uni-wuerzburg.de/), Uni Würzburg. Before that, I did my M.Sc. at [Friedrich-Alexander University Erlangen-Nürnberg (FAU)](https://www.fau.de/), with the major of [Medical Engineering](https://meinstudium.fau.de/studiengang/medizintechnik-msc/). 
 
-Currently, my major research topic is the multimodal machine learning for endometriosis, including the integration and analysis of multimodal data sources for endometriosis (WSI/MRI/Ultrasound, etc.) with a particular emphasis on supervised & unsupervised approaches. 
+Currently, my major research topic is the multimodal machine learning for endometriosis, including the integration and analysis of multimodal data sources for endometriosis (WSI/MRI/Ultrasound, etc.) with a particular emphasis on supervised & unsupervised approaches. Driven by a deep passion for Deep Learning and medical imaging, I aim to bring together state-of-the-art AI techniques and practical healthcare applications to improve diagnostic accuracy, patient outcomes, and the timeliness of care. 
 
-Driven by a deep passion for Deep Learning and medical imaging, I aim to bring together state-of-the-art AI techniques and practical healthcare applications to improve diagnostic accuracy, patient outcomes, and the timeliness of care. 
+### News🔈
