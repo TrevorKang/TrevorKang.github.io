@@ -2,7 +2,7 @@
 title: "Scan-do Attitude: Towards Autonomous CT Protocol Management using a Large Language Model Agent"
 collection: publications
 category: conferences
-permalink: 'https://github.com/TrevorKang/TrevorKang.github.io/blob/master/files/scan-do-attitude.pdf'
+permalink: /blob/master/files/scan-do-attitude.pdf
 excerpt: 'An LLM-based agents for supporting scan protocol management in CT imaging.'
 date: 2025-11-06
 venue: 'MICCAI 2025 Workshop on Agentic AI'
