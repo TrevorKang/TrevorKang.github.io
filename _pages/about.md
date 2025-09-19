@@ -11,4 +11,11 @@ Since 2025, I am beginning my doctoral research under the supervision of [Prof. 
 
 Currently, my major research topic is the multimodal machine learning for endometriosis, including the integration and analysis of multimodal data sources for endometriosis (WSI/MRI/Ultrasound, etc.) with a particular emphasis on supervised & unsupervised approaches. Driven by a deep passion for Deep Learning and medical imaging, I aim to bring together state-of-the-art AI techniques and practical healthcare applications to improve diagnostic accuracy, patient outcomes, and the timeliness of care. 
 
-### News🔈
+### News🔔
+- **2025-07-16** 🎉🧾  
+  Paper got accepted as an oral presentation at **[MICCAI 2025 – Agentic AI for Medicine Workshop](https://miccai-agentic-ai.github.io/)** 💡  
+
+
+- **2025-09-23** - **2025-09-27** ✈️🇰🇷
+  Attend MICCAI 2025@ and present our work on Sept 27, 16:15 (GMT+9)
+  Looking forward to meet creative minds at Daejeon, South Korea 😁
