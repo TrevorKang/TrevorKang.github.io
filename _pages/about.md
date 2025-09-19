@@ -19,6 +19,6 @@ Currently, my major research topic is the multimodal machine learning for endome
 
 - **2025-07-16** 🎉🧾  
   Paper got accepted as an oral presentation at **[MICCAI 2025 – Agentic AI for Medicine Workshop](https://miccai-agentic-ai.github.io/)** 💡  
-  Thanks for all of my supervisors/co*authors🙏
+  Thanks for all of my supervisors/co-authors🙏
 
 
