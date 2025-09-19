@@ -13,7 +13,7 @@ Currently, my major research topic is the multimodal machine learning for endome
 
 ### News🔔
 - **2025-09-23** - **2025-09-27** ✈️🇰🇷  
-  Attend MICCAI 2025 and present our work on Sept 27, 16:15 (GMT+9)
+  Attend MICCAI 2025 and present our work on Sept 27, 16:15 (GMT+9)  
   Looking forward to meet creative minds at Daejeon, South Korea 😁  
 
 
