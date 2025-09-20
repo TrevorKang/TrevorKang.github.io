@@ -5,7 +5,7 @@ category: conferences
 permalink: /files/scan-do-attitude.pdf
 excerpt: 'An LLM-based agents for supporting scan protocol management in CT imaging.'
 date: 2025-11-06
-venue: 'MICCAI 2025 Workshop on Agentic AI'
+venue: 'MICCAI Workshop on Agentic AI, Sept 27, 2025'
 paperurl: 'https://link.springer.com/book/9783032060044'
 citation: 'TBD'
 ---
