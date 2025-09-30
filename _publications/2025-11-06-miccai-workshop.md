@@ -7,7 +7,7 @@ excerpt: 'An LLM-based agents for supporting scan protocol management in CT imag
 date: 2025-11-06
 venue: 'MICCAI Workshop on Agentic AI, Sept 27'
 paperurl: 'https://link.springer.com/book/9783032060044'
-citation: 'TBD'
+citation: 'Kang, X., Vorberg, L., Maier, A., Katzmann, A., & Taubmann, O. (2025). Scan-do Attitude: Towards Autonomous CT Protocol Management using a Large Language Model Agent. arXiv preprint arXiv:2509.20270.'
 pdf: /files/scan-do-attitude.pdf
 redirect_to: /files/scan-do-attitude.pdf
 ---
