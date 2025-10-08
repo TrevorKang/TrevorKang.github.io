@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xingjian😁Since November 2025, I am beginning my doctoral research under the supervision of [Prof. Dr.-Ing. Katharina Breininger](https://www.caidas.uni-wuerzburg.de/pr/team/katharina-breininger/), [CAIDAS, Pattern Recognition Group, Uni Würzburg](https://www.caidas.uni-wuerzburg.de/). Before that, I did my M.Sc. of [Medical Engineering](https://meinstudium.fau.de/studiengang/medizintechnik-msc/) at [Friedrich-Alexander University Erlangen-Nürnberg (FAU)](https://www.fau.de/).  
+Hi, I'm Xingjian😁Since November 2025, I am beginning my doctoral research at [Pattern Recognition Group@CAIDAS-Uni Würzburg](https://www.caidas.uni-wuerzburg.de/). Before that, I did my M.Sc. of [Medical Engineering](https://meinstudium.fau.de/studiengang/medizintechnik-msc/) at [Friedrich-Alexander University Erlangen-Nürnberg (FAU)](https://www.fau.de/).  
 
 Currently, my main research topic is the multimodal machine learning for endometriosis, including the integration and analysis of multimodal data sources for endometriosis (WSI/MRI/Ultrasound, etc.) with a particular emphasis on supervised & unsupervised approaches. Beyond that, I have gained experience about the developement around LLM/MLLM as well as LLM-Agent, especially the exploration of their roles in the future healthcare industry 👨‍💻  
 
