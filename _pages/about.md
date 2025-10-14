@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xingjian 行健😁Since November 2025, I am beginning my doctoral research at [Pattern Recognition Group@CAIDAS-Uni Würzburg](https://www.caidas.uni-wuerzburg.de/). Before that, I did my M.Sc. of [Medical Engineering](https://meinstudium.fau.de/studiengang/medizintechnik-msc/) at [Friedrich-Alexander University Erlangen-Nürnberg (FAU)](https://www.fau.de/).  
+Hi, I'm Xingjian 行健😁Since October 2025, I am beginning my doctoral research at [Chair of Pattern Recognition@JMU Würzburg](https://www.caidas.uni-wuerzburg.de/pr/). Before that, I did my M.Sc. of [Medical Engineering](https://meinstudium.fau.de/studiengang/medizintechnik-msc/) at [Friedrich-Alexander University Erlangen-Nürnberg (FAU)](https://www.fau.de/).  
 
-Currently, my main research topic is the multimodal machine learning for endometriosis, including the integration and analysis of multimodal data sources (WSI/MRI/Ultrasound, etc.) with a particular emphasis on supervised & unsupervised approaches. Beyond that, I have gained experience about the developement around LLM/MLLM as well as LLM-Agent, especially the exploration of their roles in the future healthcare industry 👨‍💻  
+Currently, my main research topic is the **Multimodal Machine Learning for Endometriosis** [_(EndoKI)_](https://www.fau.de/2025/07/news/ki-trainierter-ultraschall-gegen-endometriose/), including the integration and analysis of multimodal data sources (WSI/MRI/Ultrasound, etc.) with a particular emphasis on supervised & unsupervised approaches. Beyond that, I have gained experience about the developement around LLM/MLLM as well as LLM-Agent, especially the exploration of their roles in the future healthcare industry 👨‍💻  
 
 Driven by a deep passion for Deep Learning and medical imaging, I aim to bring together state-of-the-art AI techniques and practical healthcare applications to improve diagnostic accuracy and patient outcomes. In AGI we trust😇
 
