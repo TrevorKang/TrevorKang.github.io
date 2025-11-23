@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Xingjian Kang 康行健"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "PhD Candidate @ CAIDAS-JMU, \n\
+  bio              : "PhD Student @ PR-CAIDAS, \n\
                       Multimodal Machine Learning for Endometriosis (EndoKI)" # A short 1-2 sentence bio about yourself.
-  location         : "Erlangen/Würzburg, Germany"
+  location         : "Würzburg, Germany"
   employer         : "University of Würzburg"
   uri              : # URL
   email            : "xingjian.kang@fau.de" 
