@@ -1,11 +1,11 @@
 ---
-title: "Introducation to Machine Learning (Exercise)"
+title: "Seminar: Current Topics of Medical Image Analysis"
 collection: teaching
-type: "Programming Exercises"
-permalink: /teaching/teaching-1
-venue: "FAU, Pattern Recognition Lab"
-date: 2023-04-01
-location: "Erlangen"
+type: "Seminar"
+permalink: /teaching/teaching-2
+venue: "JMU, Chair of Pattern Recognition"
+date: WS2025/2026
+location: "Würzburg"
 ---
 
-Supervising and assisting the programming exercises, answering students' questions
+Co-host the seminar for CS/AI students of JMU
