@@ -2,9 +2,9 @@
 title: "Introduction to Machine Learning (Exercise)"
 collection: teaching
 type: "Programming Exercises"
-permalink: /teaching/teaching-1
+permalink: /teaching/teaching-2
 venue: "FAU, Pattern Recognition Lab"
-date: 2023-04-01
+semester: "SS23"
 location: "Erlangen"
 ---
 

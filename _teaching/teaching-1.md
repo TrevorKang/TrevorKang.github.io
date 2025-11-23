@@ -2,9 +2,9 @@
 title: "Seminar: Current Topics of Medical Image Analysis"
 collection: teaching
 type: "Seminar"
-permalink: /teaching/teaching-2
+permalink: /teaching/teaching-1
 venue: "JMU, Chair of Pattern Recognition"
-date: WS2025/2026
+semester: "WS2025/2026"
 location: "Würzburg"
 ---
 
