@@ -9,13 +9,13 @@ redirect_from:
 
 Hi, I'm Xingjian 行健😁Since October 2025, I am beginning my doctoral research at [Chair of Pattern Recognition@JMU Würzburg](https://www.caidas.uni-wuerzburg.de/pr/). 
 
-Currently, my main research topic is the **Multimodal Machine Learning for Endometriosis** [_(EndoKI)_](https://www.fau.de/2025/07/news/ki-trainierter-ultraschall-gegen-endometriose/), including the integration and analysis of multimodal data sources (MRI, Ultrasound, and WSI etc.) with a particular emphasis on supervised & unsupervised approaches. Beyond that, I have gained experience about the developement around LLM/MLLM as well as LLM-Agent, especially the exploration of their roles in the future healthcare industry 👨‍💻  
+Currently, my main research topic is the **Multimodal Machine Learning for Endometriosis** [_(EndoKI)_](https://www.fau.de/2025/07/news/ki-trainierter-ultraschall-gegen-endometriose/), including the integration and analysis of multimodal data sources (MRI, Ultrasound, and WSI etc.) with a particular emphasis on supervised & unsupervised approaches. 
 
-Driven by a deep passion for Deep Learning and medical imaging, I aim to bring together state-of-the-art AI techniques and practical healthcare applications to improve diagnostic accuracy and patient outcomes. In AGI we trust😇
+Beyond that, I have gained experience about the developement around LLM/MLLM as well as LLM-Agent, especially the exploration of their roles in the future healthcare industry 👨‍💻  
 
 
 ### News🔔
-- 📅**2025-09-23** - **2025-09-27** ✈️🇰🇷  
+- 📅**2025-09-23** - **2025-09-27** ✈️🇰🇷 
   Attend MICCAI 2025 and present our work on Sept 27, 16:15 (GMT+9)  
   Looking forward to meet creative minds at Daejeon, South Korea 😁  
 

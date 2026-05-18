@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/teaching-2
 venue: "JMU, Chair of Pattern Recognition"
-semester: "WS2025/2026"
+semester: "WS25/26, SS26"
 date: 2025-10-01
 location: "Würzburg"
 ---
