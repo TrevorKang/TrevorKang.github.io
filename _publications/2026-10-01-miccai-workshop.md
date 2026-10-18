@@ -6,7 +6,7 @@ permalink: /publications/cross-modal-ovary/
 excerpt: 'Unpaired TVUS data can be used to improve the ovary segmentation in MRI images.'
 date: 2026-10-01
 venue: 'CAPI-WOMEN Workshop@MICCAI 2026, Oct 1'
-paperurl: 'https://link.springer.com/book/9783032060044'
+paperurl: 'https://papers.miccai.org/miccai-2026-sat/CAPI_WOMEN_009.html'
 citation: 'Kang, X., Felsner, L., Perrin, D., Liu, D., Arjomandi, J., Mathis-Ullrich, F., ... & Breininger, K. (2026). Cross-Modal MRI Ovary Segmentation in Endometriosis Using Unpaired TVUS Prototype Priors. arXiv preprint arXiv:2608.18515.'
 pdf: /files/cross-modal-ovary.pdf
 redirect_to: /files/cross-modal-ovary.pdf
