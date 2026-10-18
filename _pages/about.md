@@ -15,6 +15,11 @@ Beyond that, I have gained experience about the developement around LLM/MLLM as 
 
 
 ### News🔔
+
+- 📅**2026-10-01** 🎉🧾  
+  Attend MICCAI 2026@Strasbourg, France and present our work at **[CAPI-WOMEN](https://www.capiwomen.com/)**. We showed how unpaired TVUS data can be used to improve the ovary segmentation in MRI images. [Link to the paper](https://arxiv.org/pdf/2608.18515)
+  
+
 - 📅**2025-09-23** - **2025-09-27** ✈️🇰🇷 
   Attend MICCAI 2025 and present our work on Sept 27, 16:15 (GMT+9)  
   Looking forward to meet creative minds at Daejeon, South Korea 😁  
